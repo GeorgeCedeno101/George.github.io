@@ -6,8 +6,9 @@
     display: flex;
     justify-content: center;
     justify-content: space-around;
-    border: soild;
-
+    border-style: solid;
+    border-width: 8px;
+    
 }
 .headshot{
     width:20%;
