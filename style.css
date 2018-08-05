@@ -1,0 +1,40 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border: soild;
+
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:black;
+    color:white;
+    align-items:center;
+    font-size:40px;
+    margin-top:5px;
+    margin-bottom:5px;
+    
+    
+}
+.aboutme{
+    border:1px solid black;   
+}
+#pic{
+  width:1350px;  
+  height:800px;
+}
+#lol{
+ width:130px;  
+  height:130px;
+  
+}
+body{
+ background:black;
+}
